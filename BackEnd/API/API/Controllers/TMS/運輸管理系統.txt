@@ -1,0 +1,35 @@
+TMS（Transportation Management System，运输管理系统）是一种用于规划、执行和优化运输活动的软件系统。TMS 系统帮助企业管理从货物发货到最终交付的整个运输流程，提高运输效率、降低运输成本并提升客户服务水平。以下是 TMS 系统的主要功能和优势：
+
+主要功能
+运输计划和优化（Transportation Planning and Optimization）
+
+规划最佳的运输路线和方式，以最小化运输成本和时间。
+考虑多种运输模式，如公路、铁路、海运和空运。
+承运商管理（Carrier Management）
+
+选择和管理承运商，比较承运商的服务、成本和绩效。
+与承运商进行合同谈判和管理。
+订单管理（Order Management）
+
+集成订单信息，处理从订单生成到货物交付的全过程。
+提供订单跟踪和状态更新。
+货物跟踪和可视性（Freight Tracking and Visibility）
+
+实时跟踪货物的运输状态和位置。
+提供可视化工具，帮助企业监控运输过程。
+货物合并和分配（Freight Consolidation and Distribution）
+
+合并多个订单或货物，提高运输效率。
+管理配送中心和分发网络。
+运输成本管理（Transportation Cost Management）
+
+分析和管理运输成本，提供成本估算和报告。
+自动化运费计算和付款处理。
+合规管理（Compliance Management）
+
+确保运输活动符合各类法规和标准，如安全法规、环保法规等。
+管理运输文档和报关单据。
+报表和分析（Reporting and Analytics）
+
+提供详细的运输运营报告和分析。
+实时监控关键绩效指标（KPIs），如准时交货率、运输成本等。
